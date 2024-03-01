@@ -1,4 +1,4 @@
 """Magic number"""
 
 # answer to life
-answer = 42
+answer_to_life = 42
